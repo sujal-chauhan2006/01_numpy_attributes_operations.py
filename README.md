@@ -16,3 +16,13 @@ I practiced all code myself and added some extra examples.
 - Python
 - NumPy
 - Google Colab
+  
+## Performance Comparison
+
+Compared execution speed between normal Python loops and NumPy operations.
+
+### Result
+NumPy is significantly faster due to vectorized operations.
+
+### File
+- python_vs_numpy_performance.ipynb
